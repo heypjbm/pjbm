@@ -56,8 +56,8 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by{' '}
-          <img src="/vercel.svg" alt="Vercel Logo" className={styles.logo} />
+          Powered by PJ BM
+          <img src="https://avatars.githubusercontent.com/u/59773409?s=96&v=4" alt="Vercel Logo" className={styles.logo} />
         </a>
       </footer>
     </div>
